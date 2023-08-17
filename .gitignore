@@ -1,0 +1,7 @@
+*.o
+*.csv
+*.txt
+*.out
+*.gch
+*.tmp
+banking
